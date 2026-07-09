@@ -1,0 +1,8 @@
+{
+  "name": "Khan Textile",
+  "description": "Premium towel and textile brand portfolio web application with a dark luxury theme.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
